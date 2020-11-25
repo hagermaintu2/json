@@ -1,0 +1,24 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://www.google.fr/?gws_rd=ssl",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://hagergroup-my.sharepoint.com/:x:/r/personal/david_augustyn_hagergroup_com/_layouts/15/guestaccess.aspx?e=MPMBSO&share=ETig4OYVLs1FqgwXULc16XMB5ng0np92XmRdn3Yx4ASOMA",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "http://hagergmao.industrialit.hager.corp/index.php?uap=8",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 300
+    },
+   
+  ]
+}
